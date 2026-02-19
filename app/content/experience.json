@@ -1,0 +1,122 @@
+[
+    {
+        "title": {
+            "en": "Full-Stack Developer",
+            "fr": "Développeur Full-Stack"
+        },
+        "company": "Webrio",
+        "location": {
+            "en": "Remote / Quebec, Canada",
+            "fr": "Télétravail / Québec, Canada"
+        },
+        "period": {
+            "start": "2023-05",
+            "end": "2025-08"
+        },
+        "description": {
+            "en": "Leading full-stack development projects using modern JavaScript frameworks, PHP/Laravel backends, and AI integration tools. Building responsive web applications, implementing automation workflows, and managing client projects from conception to deployment.",
+            "fr": "Direction de projets de développement full-stack utilisant des frameworks JavaScript modernes, des backends PHP/Laravel et des outils d'intégration IA. Construction d'applications web responsives, implémentation de flux d'automatisation et gestion de projets clients de la conception au déploiement."
+        },
+        "responsibilities": {
+            "en": [
+                "Develop and maintain web applications using Vue 3, Nuxt 3, and React/Next.js",
+                "Build RESTful APIs and backend services with Laravel and Node.js",
+                "Integrate AI automation tools (n8n, Make) into client workflows",
+                "Implement responsive designs with Tailwind CSS",
+                "Manage deployments on AWS and Vercel platforms"
+            ],
+            "fr": [
+                "Développer et maintenir des applications web avec Vue 3, Nuxt 3 et React/Next.js",
+                "Construire des API RESTful et services backend avec Laravel et Node.js",
+                "Intégrer des outils d'automatisation IA (n8n, Make) dans les flux clients",
+                "Implémenter des designs responsifs avec Tailwind CSS",
+                "Gérer les déploiements sur AWS et Vercel"
+            ]
+        },
+        "tech": [
+            "Vue 3",
+            "Nuxt 3",
+            "React",
+            "Laravel",
+            "Tailwind CSS",
+            "n8n",
+            "AWS"
+        ]
+    },
+    {
+        "title": {
+            "en": "Telecommunications Technician",
+            "fr": "Technicien en Télécommunications"
+        },
+        "company": "Sûreté du Québec",
+        "location": {
+            "en": "Quebec, Canada",
+            "fr": "Québec, Canada"
+        },
+        "period": {
+            "start": "2020-01",
+            "end": "2021-12"
+        },
+        "description": {
+            "en": "Managed and maintained telecommunications infrastructure for the provincial police force. Ensured reliable communication systems across multiple sites, troubleshot network issues, and implemented system upgrades.",
+            "fr": "Gestion et maintenance de l'infrastructure de télécommunications pour la police provinciale. Assurer la fiabilité des systèmes de communication sur plusieurs sites, résolution de problèmes réseau et implémentation de mises à niveau systèmes."
+        },
+        "responsibilities": {
+            "en": [
+                "Maintain and troubleshoot telecommunications infrastructure",
+                "Ensure reliable communication systems across multiple facilities",
+                "Implement system upgrades and new installations",
+                "Coordinate with teams for technical support resolution"
+            ],
+            "fr": [
+                "Maintenir et dépanner l'infrastructure de télécommunications",
+                "Assurer la fiabilité des systèmes de communication",
+                "Implémenter les mises à niveau et nouvelles installations",
+                "Coordonner avec les équipes pour la résolution du support technique"
+            ]
+        },
+        "tech": [
+            "Telecommunications",
+            "Network Infrastructure",
+            "System Administration"
+        ]
+    },
+    {
+        "title": {
+            "en": "Backoffice / Technical Support",
+            "fr": "Backoffice / Support Technique"
+        },
+        "company": "CGI",
+        "location": {
+            "en": "Chicoutimi, Quebec, Canada",
+            "fr": "Chicoutimi, Québec, Canada"
+        },
+        "period": {
+            "start": "2016-01",
+            "end": "2020-12"
+        },
+        "description": {
+            "en": "Provided technical support and backoffice operations for enterprise clients. Handled escalated technical issues, maintained documentation, and contributed to process improvement initiatives that increased team efficiency.",
+            "fr": "Support technique et opérations backoffice pour des clients entreprise. Gestion des problèmes techniques escaladés, maintien de la documentation et contribution aux initiatives d'amélioration des processus augmentant l'efficacité de l'équipe."
+        },
+        "responsibilities": {
+            "en": [
+                "Provide Level 2 technical support for enterprise clients",
+                "Manage backoffice operations and documentation",
+                "Contribute to process improvement initiatives",
+                "Train and mentor new team members"
+            ],
+            "fr": [
+                "Fournir un support technique de niveau 2 pour les clients entreprise",
+                "Gérer les opérations backoffice et la documentation",
+                "Contribuer aux initiatives d'amélioration des processus",
+                "Former et encadrer les nouveaux membres de l'équipe"
+            ]
+        },
+        "tech": [
+            "Technical Support",
+            "Documentation",
+            "Process Optimization"
+        ]
+    }
+]

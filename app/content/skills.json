@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "name": {
+                "en": "Frontend",
+                "fr": "Frontend"
+            },
+            "icon": "🎨",
+            "skills": [
+                "Vue 3",
+                "Nuxt 3",
+                "React",
+                "Next.js",
+                "Tailwind CSS",
+                "JavaScript",
+                "TypeScript",
+                "HTML/CSS"
+            ]
+        },
+        {
+            "name": {
+                "en": "Backend",
+                "fr": "Backend"
+            },
+            "icon": "⚙️",
+            "skills": [
+                "PHP",
+                "Laravel",
+                "Node.js",
+                "REST APIs",
+                "MySQL",
+                "WordPress"
+            ]
+        },
+        {
+            "name": {
+                "en": "AI & Automation",
+                "fr": "IA & Automatisation"
+            },
+            "icon": "🤖",
+            "skills": [
+                "AI Integration",
+                "n8n",
+                "Make (Integromat)",
+                "LLM APIs",
+                "Workflow Automation"
+            ]
+        },
+        {
+            "name": {
+                "en": "DevOps & Tools",
+                "fr": "DevOps & Outils"
+            },
+            "icon": "🛠️",
+            "skills": [
+                "Git/GitHub",
+                "AWS",
+                "Vercel",
+                "CI/CD",
+                "Docker"
+            ]
+        }
+    ]
+}
