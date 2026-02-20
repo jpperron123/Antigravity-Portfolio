@@ -16,7 +16,7 @@
 
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6 leading-tight animate-fade-up">
             {{ t({ en: "Hi, I'm", fr: 'Bonjour, je suis' }) }}
-            <span class="gradient-text block sm:inline">Jean-Philippe</span>
+            <span class="gradient-text whitespace-nowrap">Jean-Philippe</span>
             <span class="block">Perron</span>
           </h1>
 
