@@ -61,5 +61,66 @@
         },
         "link": "https://red-dev-kit-jjta.vercel.app/",
         "github": "https://github.com/jpperron123/RedDevKit"
+    },
+    {
+        "slug": "redwatch",
+        "title": {
+            "en": "RedWatch",
+            "fr": "RedWatch"
+        },
+        "shortDescription": {
+            "en": "Real-time uptime monitoring platform with dashboard, alerts & SSL tracking.",
+            "fr": "Plateforme de surveillance de disponibilité en temps réel avec tableau de bord, alertes et suivi SSL."
+        },
+        "description": {
+            "en": "A full-stack uptime monitoring platform built from scratch. Track the availability of your websites and APIs with automated checks every 5 minutes, response time charts, incident tracking, and SSL certificate monitoring. Features a complete authentication system with Google OAuth, an interactive dashboard with filters and real-time statistics, a public status page, team management, notification channels, and API key management.",
+            "fr": "Plateforme de surveillance de disponibilité full-stack construite de zéro. Suivez la disponibilité de vos sites web et APIs avec des vérifications automatiques toutes les 5 minutes, des graphiques de temps de réponse, un suivi des incidents et la surveillance des certificats SSL. Inclut un système d'authentification complet avec Google OAuth, un tableau de bord interactif avec filtres et statistiques en temps réel, une page de statut publique, la gestion d'équipe, les canaux de notification et la gestion de clés API."
+        },
+        "category": "SaaS / Full-Stack",
+        "year": 2026,
+        "role": {
+            "en": "Solo Developer",
+            "fr": "Développeur solo"
+        },
+        "tech": [
+            "Next.js 16",
+            "React 19",
+            "TypeScript",
+            "Supabase",
+            "Vercel",
+            "CSS"
+        ],
+        "features": {
+            "en": [
+                "Automated uptime checks every 5 minutes via cron jobs",
+                "Interactive response time charts with 1h/24h/7d/30d periods",
+                "SSL certificate monitoring with expiry tracking",
+                "Automatic incident detection and resolution tracking",
+                "Public status page showing system health",
+                "Google OAuth and email/password authentication",
+                "Team management with invite system",
+                "Notification channels (Email, Slack, SMS)",
+                "API key management for integrations",
+                "Real-time dashboard with uptime bars and filters",
+                "Monitor detail pages with full history and editing",
+                "Responsive dark-themed UI built from scratch"
+            ],
+            "fr": [
+                "Vérifications automatiques de disponibilité toutes les 5 minutes via cron jobs",
+                "Graphiques interactifs de temps de réponse avec périodes 1h/24h/7j/30j",
+                "Surveillance des certificats SSL avec suivi d'expiration",
+                "Détection automatique des incidents et suivi de résolution",
+                "Page de statut publique affichant la santé du système",
+                "Authentification Google OAuth et email/mot de passe",
+                "Gestion d'équipe avec système d'invitation",
+                "Canaux de notification (Email, Slack, SMS)",
+                "Gestion de clés API pour les intégrations",
+                "Tableau de bord en temps réel avec barres de disponibilité et filtres",
+                "Pages de détail des moniteurs avec historique complet et édition",
+                "Interface sombre et responsive construite de zéro"
+            ]
+        },
+        "link": "https://redwatch-seven.vercel.app",
+        "github": "https://github.com/jpperron123/redwatch"
     }
 ]
