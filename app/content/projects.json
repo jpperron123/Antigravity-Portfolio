@@ -16,8 +16,8 @@
         "category": "Developer Tools",
         "year": 2026,
         "role": {
-            "en": "Solo Developer",
-            "fr": "Développeur solo"
+            "en": "Solo Developer (AI-Assisted)",
+            "fr": "Développeur solo (assisté par IA)"
         },
         "tech": [
             "Vite",
@@ -79,8 +79,8 @@
         "category": "SaaS / Full-Stack",
         "year": 2026,
         "role": {
-            "en": "Solo Developer",
-            "fr": "Développeur solo"
+            "en": "Solo Developer (AI-Assisted)",
+            "fr": "Développeur solo (assisté par IA)"
         },
         "tech": [
             "Next.js 16",
