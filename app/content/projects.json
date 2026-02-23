@@ -1,1 +1,65 @@
-[]
+[
+    {
+        "slug": "rouge-devkit",
+        "title": {
+            "en": "Rouge DevKit",
+            "fr": "Rouge DevKit"
+        },
+        "shortDescription": {
+            "en": "Your Essential Dev Toolkit — 10 tools. Fast. Beautiful. Free.",
+            "fr": "Votre boîte à outils dev essentielle — 10 outils. Rapide. Magnifique. Gratuit."
+        },
+        "description": {
+            "en": "A web-based developer tool suite featuring 10 essential utilities in a clean, responsive interface. JSON Formatter, Base64 Encoder, Regex Tester, Color Converter, UUID Generator, Timestamp Converter, CSS Unit Converter, URL Encoder, Tailwind ↔ CSS Converter, and Lorem Ipsum Generator. Includes dark/light mode, Cmd+K search, and copy buttons with feedback on every tool.",
+            "fr": "Suite d'outils web pour développeurs, regroupant 10 utilitaires essentiels dans une interface clean et responsive. JSON Formatter, Base64 Encoder, Regex Tester, Color Converter, UUID Generator, Timestamp Converter, CSS Unit Converter, URL Encoder, Tailwind ↔ CSS Converter et Lorem Ipsum Generator. Dark/light mode, recherche Cmd+K, et boutons de copie avec feedback sur chaque outil."
+        },
+        "category": "Developer Tools",
+        "year": 2026,
+        "role": {
+            "en": "Solo Developer",
+            "fr": "Développeur solo"
+        },
+        "tech": [
+            "Vite",
+            "JavaScript",
+            "CSS",
+            "Playwright"
+        ],
+        "features": {
+            "en": [
+                "10 essential developer tools in one unified interface",
+                "JSON Formatter with syntax highlighting and validation",
+                "Base64 Encoder/Decoder for quick data conversion",
+                "Regex Tester with real-time pattern matching",
+                "Color Converter between HEX, RGB, HSL formats",
+                "UUID Generator for unique identifier creation",
+                "Timestamp Converter between Unix and human-readable formats",
+                "CSS Unit Converter for px, rem, em, vh, vw conversions",
+                "URL Encoder/Decoder for safe URL handling",
+                "Tailwind ↔ CSS Converter for seamless style translation",
+                "Lorem Ipsum Generator with customizable output",
+                "Dark/Light mode toggle for comfortable usage",
+                "Cmd+K search for instant tool navigation",
+                "Copy buttons with visual feedback on every tool"
+            ],
+            "fr": [
+                "10 outils développeur essentiels dans une interface unifiée",
+                "JSON Formatter avec coloration syntaxique et validation",
+                "Base64 Encoder/Decoder pour la conversion rapide de données",
+                "Regex Tester avec correspondance de motifs en temps réel",
+                "Color Converter entre les formats HEX, RGB, HSL",
+                "UUID Generator pour la création d'identifiants uniques",
+                "Timestamp Converter entre Unix et formats lisibles",
+                "CSS Unit Converter pour les conversions px, rem, em, vh, vw",
+                "URL Encoder/Decoder pour la gestion sécurisée des URL",
+                "Tailwind ↔ CSS Converter pour la traduction fluide des styles",
+                "Lorem Ipsum Generator avec sortie personnalisable",
+                "Mode sombre/clair pour un confort d'utilisation",
+                "Recherche Cmd+K pour une navigation instantanée",
+                "Boutons de copie avec retour visuel sur chaque outil"
+            ]
+        },
+        "link": "https://red-dev-kit-jjta.vercel.app/",
+        "github": "https://github.com/jpperron123/RedDevKit"
+    }
+]
