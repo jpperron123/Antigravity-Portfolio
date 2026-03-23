@@ -5,5 +5,6 @@
       <NuxtPage />
     </main>
     <AppFooter />
+    <ChatBotIA />
   </div>
 </template>

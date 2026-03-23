@@ -42,6 +42,7 @@ export default defineNuxtConfig({
   },
 
   runtimeConfig: {
+    anthropicApiKey: process.env.ANTHROPIC_API_KEY || '',
     public: {
       projectsPassword: process.env.NUXT_PUBLIC_PROJECTS_PASSWORD || 'demo123',
     },

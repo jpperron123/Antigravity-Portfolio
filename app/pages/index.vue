@@ -90,6 +90,9 @@
       </div>
     </section>
 
+    <!-- AI Services Section -->
+    <ServicesIA />
+
     <!-- CTA Section -->
     <section class="py-24">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center reveal">
